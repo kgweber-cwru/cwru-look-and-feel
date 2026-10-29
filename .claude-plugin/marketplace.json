@@ -1,0 +1,16 @@
+{
+  "name": "cwru-look-and-feel",
+  "owner": {
+    "name": "Kate Weber"
+  },
+  "metadata": {
+    "description": "An unofficial Claude Code skill for building websites with Case Western Reserve University look and feel."
+  },
+  "plugins": [
+    {
+      "name": "cwru-look-and-feel",
+      "source": "./",
+      "description": "CWRU look and feel for websites and web apps: palette, accessible color pairs, Open Sans, logo rules, page frame, and a build check for off-brand colors."
+    }
+  ]
+}

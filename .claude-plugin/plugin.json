@@ -1,0 +1,10 @@
+{
+  "name": "cwru-look-and-feel",
+  "version": "0.1.0",
+  "description": "Build websites and web apps with Case Western Reserve University look and feel: palette, accessible color pairs, Open Sans, logo rules, page frame, and a build check for off-brand colors.",
+  "author": { "name": "Kate Weber" },
+  "homepage": "https://github.com/kgweber-cwru/cwru-look-and-feel",
+  "repository": "https://github.com/kgweber-cwru/cwru-look-and-feel",
+  "license": "MIT",
+  "keywords": ["cwru", "case-western-reserve", "brand", "design", "accessibility", "skill"]
+}
